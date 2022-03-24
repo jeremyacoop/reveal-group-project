@@ -9,10 +9,13 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Credits](#credits)
 - [Acknowledgements](#acknowledgements)
 - [Contacts](#contacts)
 
 ## Description
+
+Reveal is a collaborative group project, see credits below.
 
 Consumers are increasingly concerned about the environmental, social, and political impacts of their purchases. They want to support companies which align with their values and penalize companies which don’t. However, the status quo of inaccessible information, misleading claims, and corporate virtue signaling largely prevents consumers from easily using their purchasing power to make change. 
 
@@ -74,7 +77,14 @@ Register as a new user. If you want admin access, you will have to edit your dat
 
 we use 
 
-## Algeritium 
+## Algorithm 
+
+## Credits
+
+James Petran https://github.com/jamespetran
+Desiree Quade https://github.com/NekoPrim
+Chris Agbolade https://github.com/yemluck
+Jeremy Cooper (this page)
 
 ## Acknowledgements
 
