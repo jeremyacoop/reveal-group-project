@@ -81,10 +81,10 @@ we use
 
 ## Credits
 
-James Petran https://github.com/jamespetran
-Desiree Quade https://github.com/NekoPrim
-Chris Agbolade https://github.com/yemluck
-Jeremy Cooper (this page)
+ - James Petran https://github.com/jamespetran
+ - Desiree Quade https://github.com/NekoPrim
+ - Chris Agbolade https://github.com/yemluck
+ - Jeremy Cooper (this page)
 
 ## Acknowledgements
 
